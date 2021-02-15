@@ -12,7 +12,7 @@ We want you to combine your klnowledge of html and CSS to create a personal webs
 
 For this level we want you to include:
 
-- More than one page
+- More than one page (Hint: use href)
 - Use of css to spice up your website
 - Pictures(Only if you're comfortable), buttons
 - If your stuck for ideas try setting up your main page like this: ![](example.png 'Very rough mockup')
