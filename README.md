@@ -8,7 +8,7 @@ We want you to clone/fork the repo to your own account and based on our outline,
 
 ## Outline
 
-We want you to combine your klnowledge of html and CSS to create a personal website to show off your skills and tell otehrs about who you are. This could even come in hadny as a virtual resume.
+We want you to combine your knowledge of html and CSS to create a personal website to show off your skills and tell others about who you are. This could even come in hadny as a virtual resume.
 
 For this level we want you to include:
 
